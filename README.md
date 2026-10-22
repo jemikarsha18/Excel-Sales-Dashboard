@@ -14,3 +14,7 @@ By organizing high-level operational metrics alongside granular categorical data
 
 💡Check out the complete dashboard with the dataset! 👇
 https://bit.ly/superstoredata-sales-dashboard
+
+Tools used (Microsoft Excel, Pivot Tables, Slicers)
+
+
